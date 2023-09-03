@@ -1,1 +1,1 @@
-# deep-learning-challeng
+# deep-learning-challenge
